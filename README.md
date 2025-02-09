@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Afonso</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusafonsouza" alt="matheusafonsouza" /></a> </p>
-
 - 🔭 I’m currently working on [Stone](https://www.stone.com.br/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Matheusafonsouza](https://github.com/Matheusafonsouza)
